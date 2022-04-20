@@ -1,9 +1,5 @@
 <h1 align="center">YoloV5 and DeepSort Tracker Streamlit Dashboard</h1>
 
-## :framed_picture: Demo
-
-https://user-images.githubusercontent.com/37156032/160282244-42f6bd8c-bfc8-47af-8973-d3d199140e44.mp4
-
 ## :key: Features
 
 <ol>
