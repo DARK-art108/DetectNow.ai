@@ -1,0 +1,4 @@
+__pycache__/
+runs/
+drift_frames/
+.pytest_cache/
