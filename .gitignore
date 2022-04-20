@@ -2,3 +2,4 @@ __pycache__/
 runs/
 drift_frames/
 .pytest_cache/
+deep_sort_pytorch/deep_sort/deep/checkpoint/*.t7
