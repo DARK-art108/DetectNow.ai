@@ -1,4 +1,4 @@
-<h1 align="center">YoloV5 and DeepSort Tracker Streamlit Dashboard</h1>
+<h1 align="center">Detect Now : YoloV5 and DeepSort Tracker Streamlit Dashboard</h1>
 
 ## :key: Features
 
